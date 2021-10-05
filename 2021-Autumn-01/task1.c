@@ -1,9 +1,5 @@
 #include "stdio.h"
 
-#ifdef __cplusplus
-#pragma warning(disable:4996)
-#endif
-
 #define max(a, b) (a > b ? a : b)
 #define min(a, b) (a < b ? a : b)
 
