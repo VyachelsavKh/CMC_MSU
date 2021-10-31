@@ -12,10 +12,6 @@
 #include "malloc.h"
 #include "math.h"
 
-#ifdef __cplusplus
-#pragma warning(disable:4996)
-#endif
-
 int main(void)
 {
 	int n;
