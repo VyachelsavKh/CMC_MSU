@@ -11,10 +11,6 @@
 #include "stdio.h"
 #include "malloc.h"
 
-#ifdef __cplusplus
-#pragma warning(disable:4996)
-#endif
-
 struct vector
 {
 	int* mas;
