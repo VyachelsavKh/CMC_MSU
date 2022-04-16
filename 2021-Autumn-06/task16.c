@@ -8,10 +8,6 @@
 #include "string.h"
 #include "malloc.h"
 
-#ifdef __cplusplus
-#pragma warning(disable:4996)
-#endif
-
 #ifndef l2_listh
 #define l2_listh
 
